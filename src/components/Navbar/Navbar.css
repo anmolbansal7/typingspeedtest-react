@@ -1,0 +1,38 @@
+.nav-main {
+	display: flex;
+	height: 72px;
+	align-items: center;
+	background: #1d2020;
+	margin: 0;
+	justify-content: space-between;
+}
+
+.nav-left {
+	display: flex;
+	align-items: center;
+	width: 80%;
+}
+
+.nav-right {
+	margin-right: 40px;
+}
+
+.logo {
+	margin-left: 5%;
+	height: 50px;
+}
+
+.logo-text {
+	font-size: 24px;
+	letter-spacing: 1px;
+	margin: 0 10px;
+	color: #e7e6e7;
+	font-weight: bold;
+}
+
+.link {
+	font-size: 18px;
+	font-weight: 600;
+	color: #e7e6e7;
+	text-decoration: none;
+}
