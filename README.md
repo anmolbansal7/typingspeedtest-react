@@ -1,7 +1,5 @@
 # Typing Speed Test App in React
 
-#### A basic React Website using
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to Use
