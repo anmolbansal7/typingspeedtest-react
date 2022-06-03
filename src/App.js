@@ -6,7 +6,7 @@ import Footer from "./components/Footer/Footer";
 import Landing from "./components/Landing/Landing";
 import Navbar from "./components/Navbar/Navbar";
 
-const TotalTime = 10;
+const TotalTime = 60;
 const serviceUrl = "http://metaphorpsum.com/paragraphs/1/9";
 const defaultState = {
 	selectedParagraph: "",
